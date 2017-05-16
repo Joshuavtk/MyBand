@@ -1,5 +1,5 @@
-## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
+## Jac. van 't Kruis en Zonen B.V.
+www.mijnliveomgeving.com is een website van Joshua van 't Kruis waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
@@ -21,7 +21,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
+   [readme.md]: <https://github.com/Joshuavtk/MyBand/blob/master/README.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
