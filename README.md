@@ -1,6 +1,6 @@
-## Jac. van 't Kruis en Zonen B.V.
-www.mijnliveomgeving.com is een website van Joshua van 't Kruis waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## InfoWitcher
+http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/InfoWitcher/ is een website van Joshua van 't Kruis waar gebruikers informatie, tips, nieuws en tutorials kunnen vinden over het spel The Witcher 3: Wild Hunt bedoeld voor mensen die geïnteresseerd zijn in The Witcher en er meer over willen weten of mensen die het al spelen en nog meer erover willen weten.
+De website is enigszins te vergelijken met http://witcherhour.com/ of http://witcher.wikia.com/wiki/Witcher_Wiki maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
@@ -23,7 +23,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 
    [readme.md]: <https://github.com/Joshuavtk/MyBand/blob/master/README.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
+   [Debriefing]: <https://docs.google.com/document/d/1FlJW80mCACuUO573kXljSWj5bnKDSNbayViJW_Ba6HU>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
