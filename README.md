@@ -1,5 +1,5 @@
 ## FΔNSTILLE
-http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/ is een website van Joshua van 't Kruis waar gebruikers informatie over de band, hun nummers, de bandleden en nieuws kunnen vinden over de britse band BΔSTILLE bedoeld voor mensen die geïnteresseerd zijn in de band Bastille (gestileerd als BΔSTILLE) of hun soort muziek en er meer over willen weten.
+http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/ is een website van Joshua van 't Kruis waar gebruikers informatie over de band, hun nummers, de bandleden en nieuws kunnen vinden over de britse band Bastille (gestileerd als BΔSTILLE) bedoeld voor mensen die geïnteresseerd zijn in de band Bastille of hun soort muziek en er meer over willen weten.
 De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastille_(band) of https://www.reddit.com/r/Bastille/ maar toch anders omdat dat niet websites zijn die speciaal zijn gemaakt voor die band en dus redelijk gelimiteerd zijn met wat ze doen zoals de wikipedia pagina heeft alleen maar informatie over de band, en de reddit pagina heeft alleen maar nieuws over de band. 
 
 ### Uniek aan dit concept is: 
