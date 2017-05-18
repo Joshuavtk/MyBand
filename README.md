@@ -3,7 +3,7 @@ http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/ is een website v
 De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastille_(band) of https://www.reddit.com/r/Bastille/ maar toch anders omdat dat niet websites zijn die speciaal zijn gemaakt voor die band en dus redelijk gelimiteerd zijn met wat ze doen zoals de wikipedia pagina heeft alleen maar informatie over de band, en de reddit pagina heeft alleen maar nieuws over de band. 
 
 ### Uniek aan dit concept is: 
- Mijn website daarintegen heeft beide functies en het laat onder andere toekomstige optredens van de band zien. Ook is er een plek om elk nummer/album te bespreken met andere mensen.
+ * Mijn website daarintegen heeft beide functies en het laat onder andere toekomstige optredens van de band zien. Ook is er een plek om elk nummer/album te bespreken met andere mensen.
  * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
 ---
