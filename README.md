@@ -22,7 +22,7 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/Joshuavtk/MyBand/blob/master/README.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
+   [Leidraad_uitgangspunt.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/uitganspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1FlJW80mCACuUO573kXljSWj5bnKDSNbayViJW_Ba6HU>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
