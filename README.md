@@ -1,9 +1,9 @@
-## InfoWitcher
-http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/InfoWitcher/ is een website van Joshua van 't Kruis waar gebruikers informatie, tips, nieuws en tutorials kunnen vinden over het spel The Witcher 3: Wild Hunt bedoeld voor mensen die geïnteresseerd zijn in The Witcher en er meer over willen weten of mensen die het al spelen en nog meer erover willen weten.
-De website is enigszins te vergelijken met http://witcherhour.com/ of http://witcher.wikia.com/wiki/Witcher_Wiki maar toch anders omdat (..uniek aspect..)
+## FΔNSTILLE
+http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/ is een website van Joshua van 't Kruis waar gebruikers informatie over de band, hun nummers, de bandleden en nieuws kunnen vinden over de britse band BΔSTILLE bedoeld voor mensen die geïnteresseerd zijn in de band BΔSTILLE of hun soort muziek en er meer over willen weten.
+De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastille_(band) of https://www.reddit.com/r/Bastille/ maar toch anders omdat dat niet websites zijn die speciaal zijn gemaakt voor die band en dus redelijk gelimiteerd zijn met wat ze doen zoals de wikipedia pagina heeft alleen maar informatie over de band, en de reddit pagina heeft alleen maar nieuws over de band. 
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
+ Mijn website daarintegen heeft beide functies en het laat onder andere toekomstige optredens van de band zien. Ook is er een plek om elk nummer/album te bespreken met andere mensen.
  * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
 ---
