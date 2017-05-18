@@ -1,8 +1,8 @@
 # Uitgangspunt
-* keuze artiest, festival? etc.. 
-* Wordt het fictief? 
-* Ga je een bestaande site als uitgangspunt nemen?
-* hoe uitgebreid wil je het maken?
+* Bastille 
+* Non-fictief 
+* Alleenstaande website en neemt alleen inspiratie op van andere websites.
+* Ik ga op zijn minst alle 6 benodigde onderdelen erin doen. Daarna ga ik proberen om zo ver mogelijk te komen met de bonus onderdelen
 
 ##### Fase 1 Oriëntatie op het gekozen website onderwerp 
 Oriëntatie op het gekozen website onderwerp en 
