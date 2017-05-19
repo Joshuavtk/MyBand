@@ -7,14 +7,14 @@ Dit is versie 0.0
 ##### WEEK1
 |         | ma 15/5 | di 16/5 | wo 17/5 | do 18/5 | vr 19/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | |X| | |X|  |
-| 2de uur |PROJ|X|VID| |X|  |
-| 3de uur |PROJ|X|X| |X|  |
-| 4de uur |X|X|X| |PROJ|  |
+| 1ste uur | |X| | |X|Uitgangspunt |
+| 2de uur |PROJ|X|VID| |X|Planning|
+| 3de uur |PROJ|X|X| |X|Urenschatting|
+| 4de uur |X|X|X| |PROJ|Moodboard|
 | 5de uur |X|X|UXD| |X|  |
 | 6de uur |X| |UXD| |X|  |
-| 7de uur |PROJ| | | |X|  |
-| 8de uur | | | | | |  |
+| 7de uur |PROJ| | |README|X|  |
+| 8de uur | | | |Debriefing| |  |
 
 ##### WEEK2
 |         | ma 22/5 | di 23/5 | wo 24/5 | do 25/5 | vr 26/5 | weekend |
