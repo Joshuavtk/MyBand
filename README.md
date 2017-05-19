@@ -13,9 +13,9 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
-| b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
+| b1-k1-w2 Urenschatting         | DONE | [doc/1/urenschatting.md]| *Markdown |
+| b1-k1-w2 Planning              | DONE | [doc/1/planning.md]     | *Markdown |
+| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Google Doc Comment enabled |
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FlowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
@@ -24,9 +24,9 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
    [readme.md]: <https://github.com/Joshuavtk/MyBand/blob/master/README.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/uitganspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1FlJW80mCACuUO573kXljSWj5bnKDSNbayViJW_Ba6HU>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
+   [doc/1/PvA.rtf]: <https://docs.google.com/document/d/1WKi-FkJGA4O39ik089VEoG8P9H0X57f_LJ1BQhSUs6Q/>
+   [doc/1/urenschatting.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/urenschatting.md>
+   [doc/1/planning.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
    [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
