@@ -2,20 +2,20 @@
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
 | schrijven debriefing           |1x       | 1 | 
-| Analyse concurrentie           |2x       |   | 
-| Verzinnen U.S.P.               | 2x      |   |
+| Analyse concurrentie           |2x       | 1 | 
+| Verzinnen U.S.P.               | 2x      | 2 |
 | Technisch onderzoek            |?x       | 1 | 
 | Ureninschatting                | 1x      | 1 | 
-| Planning                       |         |   |
-| Moodboard                      |      1x |   |
-| Flowchart                      |      1x |   |
-| Wireframes voor ieder template |      4x |   |
-| Interaction schetsen           |         |   |
-| Testing paper prototyping      |         |   |
-| Bepalen menustructuur          |         |   |
-| Functioneel ontwerp            |      1x |   |
-| Mockups (ID v adobe)           |      1x |   |
-| Prototype                      |      1x |   |
+| Planning                       |         | 3 |
+| Moodboard                      |      1x | 1 |
+| Flowchart                      |      1x | 3 |
+| Wireframes voor ieder template |      4x | 5 |
+| Interaction schetsen           |         | 1 |
+| Testing paper prototyping      |         | 1 |
+| Bepalen menustructuur          |         | 1 |
+| Functioneel ontwerp            |      1x | 3 |
+| Mockups (ID v adobe)           |      1x | 3 |
+| Prototype                      |      1x | 4 |
 
 ##### Aspect 2
 | Onderdeel        | Aantal           |  Uren           |
