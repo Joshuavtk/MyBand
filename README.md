@@ -12,7 +12,7 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | DONE? | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | DONE | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | DONE | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Google Doc Comment enabled |
