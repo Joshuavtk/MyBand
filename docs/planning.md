@@ -25,8 +25,8 @@ Dit is versie 0.0
 | 4de uur | | | |FO| |  |
 | 5de uur | | |Flowchart|FO| |  |
 | 6de uur | | |Flowchart|FO| |  |
-| 7de uur | | | | |FO|  |
-| 8de uur | | | | |FO|  |
+| 7de uur | | | |FO| |  |
+| 8de uur | | | |FO| |  |
 
 ##### WEEK3
 |         | ma 29/5 | di 30/5 | wo 31/5 | do 1/6 | vr 2/6 | weekend |
