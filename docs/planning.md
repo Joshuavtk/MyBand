@@ -19,14 +19,14 @@ Dit is versie 0.0
 ##### WEEK2
 |         | ma 22/5 | di 23/5 | wo 24/5 | do 25/5 | vr 26/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur | | | | | |  |
-| 3de uur | | | | | |  |
-| 4de uur | | | | | |  |
-| 5de uur | | | | | |  |
-| 6de uur | | | | | |  |
-| 7de uur | | | | | |  |
-| 8de uur | | | | | |  |
+| 1ste uur | | | |FO| |  |
+| 2de uur | | | |FO| |  |
+| 3de uur | | | |FO| |  |
+| 4de uur | | | |FO| |  |
+| 5de uur | | |Flowchart|FO| |  |
+| 6de uur | | |Flowchart|FO| |  |
+| 7de uur | | | | |FO|  |
+| 8de uur | | | | |FO|  |
 
 ##### WEEK3
 |         | ma 29/5 | di 30/5 | wo 31/5 | do 1/6 | vr 2/6 | weekend |
