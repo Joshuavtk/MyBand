@@ -12,13 +12,13 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | DONE? | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | DONE | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | DONE | [doc/1/planning.md]     | *Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Google Doc Comment enabled |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
+| b1-k1-w2 Plan van aanpak       | ALMOST | [doc/1/PvA.rtf]         | Google Doc Comment enabled |
+| b1-k1-w2 Sfeer impressie       | SKIP | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FlowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 FlowChart             | SKIP | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/Joshuavtk/MyBand/blob/master/README.md>
