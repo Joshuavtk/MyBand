@@ -35,9 +35,9 @@ Dit is versie 0.0
 | 2de uur | | | | | |  |
 | 3de uur | | | | | |  |
 | 4de uur | | | | | |  |
-| 5de uur | | | | | |  |
-| 6de uur | | | | | |  |
-| 7de uur | | | | | |  |
+| 5de uur | | |Hele|week| |  |
+| 6de uur | | |werken|aan| |  |
+| 7de uur | | |website| | |  |
 | 8de uur | | | | | |  |
 
 ##### WEEK4
@@ -46,8 +46,8 @@ Dit is versie 0.0
 | 1ste uur | | | | | |  |
 | 2de uur | | | | | |  |
 | 3de uur | | | | | |  |
-| 4de uur | | | | | |  |
-| 5de uur | | | | | |  |
+| 4de uur | | |zelfde|als| |  |
+| 5de uur | | |vorige|week| |  |
 | 6de uur | | | | | |  |
 | 7de uur | | | | | |  |
 | 8de uur | | | | | |  |
