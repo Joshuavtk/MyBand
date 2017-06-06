@@ -28,7 +28,7 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
    [doc/1/urenschatting.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/urenschatting.md>
    [doc/1/planning.md]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
+   [FO]: <https://github.com/Joshuavtk/MyBand/blob/master/docs/functioneelontwerp.md>
    [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
 
