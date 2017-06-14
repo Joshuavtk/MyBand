@@ -4,7 +4,7 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 
 ### Uniek aan dit concept is: 
  * Mijn website daarintegen heeft beide functies en het laat onder andere toekomstige optredens van de band zien. Ook is er een plek om elk nummer/album te bespreken met andere mensen.
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * Hoeveel functionaliteit mijn website heeft terwijl het er heel simpel uitziet.
 
 ---
 #### Milestones Fase 1
