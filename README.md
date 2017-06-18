@@ -38,7 +38,7 @@ De website is enigszins te vergelijken met https://nl.wikipedia.org/wiki/Bastill
 | b1-k1-w3 Technisch Ontwerp |  TODO |  [doc/fase2/TO.rtf] |
 | b1-k1-w3 ERD               |  TODO |  [doc/fase2/erd.svg] |
 | b1-k1-w4 Ontwikkelomgeving |  TODO |  [doc/fase2/oo.md]|
-| Link naar de live omgeving |  TODO |  <http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/>|
+| Link naar de live omgeving |  DONE |  <http://22288.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/Fanstille/>|
 | Github website repository | DONE | <https://github.com/Joshuavtk/Fanstille_complete> |
 | Implementatieplan          | TODO |  [doc/fase2/imp.rtf] |
 
